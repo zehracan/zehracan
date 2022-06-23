@@ -21,6 +21,5 @@ Here are some ideas to get you started:
  
  <h2>SKILLS</h2><br>
  Programming Languages:Python, Javascript,SQL<br>
- Markup Languages: HTML, CSS<br>
  Framework:Django<br>
   
