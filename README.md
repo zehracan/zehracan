@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Computer Science Student
+<h1>Computer Science Student</h1>
 🌱 Currently I am focusing on <b>ML, AI<b> <br>
 📫 How to reach me: zehraacannn@gmail.com <br>
  
