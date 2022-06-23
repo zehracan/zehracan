@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Computer Science Student</h1>
-🔭 I’m currently working on web project
+🔭 I’m currently working on web project<br>
 🌱 I am focusing on <b>ML, AI</b> <br>
 📫 How to reach me: zehraacannn@gmail.com <br>
  
