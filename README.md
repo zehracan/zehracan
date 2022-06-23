@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 🌱 Currently I am focusing on <b>ML, AI<b> <br>
 📫 How to reach me: zehraacannn@gmail.com <br>
  
- #SKILLS
- <b>Programming Languages:<b> Python, Javascript,SQL<br>
- <b>Markup Languages:<b> HTML, CSS<br>
+ #SKILLS<br>
+ Programming Languages:Python, Javascript,SQL<br>
+ Markup Languages: HTML, CSS<br>
  Framework:Django<br>
   
