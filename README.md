@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #Computer Science Student
-🌱 Currently I am focusing on <b>ML, AI<b>
- 📫 How to reach me: zehraacannn@gmail.com
+🌱 Currently I am focusing on <b>ML, AI<b> <br>
+📫 How to reach me: zehraacannn@gmail.com <br>
+ 
+ #SKILLS
+ <b>Programming Languages:<b> Python, Javascript,SQL<br>
+ <b>Markup Languages:<b> HTML, CSS<br>
+ Framework:Django<br>
+  
