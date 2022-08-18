@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1>Computer Science Student</h1>
 🔭 I’m currently working on deep learning<br>
 🌱 I am focusing on <b>ML, AI</b> <br>
-📫 How to reach me: zehraacannn@gmail.com <br>
+📫 How to reach me: zehraacannn@outlook.com <br>
  😄 Pronouns: zera
  <h2>SKILLS</h2><br>
  Programming Languages:Python, Javascript,SQL<br>
