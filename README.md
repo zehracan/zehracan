@@ -23,3 +23,4 @@ Here are some ideas to get you started:
  Programming Languages:Python, Javascript,SQL<br>
  Framework:Django<br>
   
+![GitHub Stats](https://github-readme-stats.vercel.api?username=zehracan&theme=radical)
