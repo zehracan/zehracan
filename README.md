@@ -22,4 +22,5 @@ Here are some ideas to get you started:
  <h2>SKILLS</h2><br>
  Programming Languages:Python, Javascript,SQL<br>
  Framework:Django<br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zehracan&show_icons=true)
+ #Hi
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zehracan&show_icons=true&theme=radical)
