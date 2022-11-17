@@ -23,4 +23,4 @@ Here are some ideas to get you started:
  Programming Languages:Python, Javascript,SQL<br>
  Framework:Django<br>
  #Hi
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zehracan&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehracan)](https://github.com/anuraghazra/github-readme-stats)
