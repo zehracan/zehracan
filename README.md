@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Computer Science Student</h1>
+<h1>Computer Engineer</h1>
 🔭 I’m currently working on deep learning<br>
 🌱 I am focusing on <b>ML, AI</b> <br>
 📫 How to reach me: zehraacannn@outlook.com <br>
