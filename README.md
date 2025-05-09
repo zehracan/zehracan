@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 📫 How to reach me: zehraacannn@outlook.com <br>
  😄 Pronouns: zera
  <h2>SKILLS</h2><br>
- Programming Languages:Python, C#, Angular,Javascript,SQL<br>
- Framework:Django<br>
+ Programming Languages:Python, C#, Angular TS,Javascript,SQL<br>
+ Framework:Django<br> .NET <br>
 
